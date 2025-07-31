@@ -1,0 +1,5 @@
+---Reciept---
+User: Momina
+Action: check balance
+Amount: 0
+Balance: 30000
